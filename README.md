@@ -1,3 +1,10 @@
+# DEPRECATED
+
+This repo is deprecated, starting with uos-1.2.1 the template will be
+installed and updated automatically through `gem install under-os`
+
+The new template location is over here https://github.com/under-os/under-os/tree/master/template/uos
+
 # UnderOS Default Template
 
 Install
